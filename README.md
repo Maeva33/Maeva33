@@ -1,4 +1,4 @@
--👋 Hi, I’m @Maeva33 alias Maëva RODRIGUES  
+-👋 Hi, I’m @Maëva RODRIGUES  
 -👀 I’m passionate about web development and currently in the process of career transition.  
 -🌱 I’m currently learning to prepare for the diploma web developer.  
 -👀 I’m also actively seeking an apprenticeship opportunity to prepare for the diploma of application designer and developer.  
